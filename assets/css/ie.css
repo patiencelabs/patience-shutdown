@@ -1,0 +1,13 @@
+.slide-panel {
+	-ms-transform: translateY(-100%);
+			transform: translateY(-100%);
+}
+
+.show-panel .slide-panel {
+	-ms-transform: translateY(0%);
+			transform: translateY(0%);
+}
+
+.panel-wrap .panel-close {
+	position: absolute;
+}
